@@ -1,11 +1,11 @@
 ---
 typora-root-url: .
-typora-copy-images-to: ..\..\assets\img
+typora-copy-images-to: ..\assets\img
 ---
 
 # java运行时数据区
 
-![java运行时数据区](/../../assets/img/clip_image001-1561884062200.png)
+![java运行时数据区](/../assets/img/clip_image001-1561884062200.png)
 
 # PC寄存器
 
