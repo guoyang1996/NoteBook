@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [java基础](./ch1-java/java基础.md)
+* [java基础](./ch1-java/0-java基础.md)
 	* [1-java运行时数据区](./ch1-java/1-java运行时数据区.md)
 	* [2-java内存模型与垃圾回收机制](./ch1-java/2-java内存模型与垃圾回收机制.md)
 

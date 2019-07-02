@@ -5,7 +5,7 @@ typora-copy-images-to: ..\assets\img
 
 # java内存模型与垃圾回收机制
 
-## java内存模型
+## 一、java内存模型
 
 ![Eden  so  4—JVM Heap](/../assets/img/clip_image001-1562053642070.png)
 
@@ -23,7 +23,7 @@ typora-copy-images-to: ..\assets\img
 
  
 
-## 内存管理中的各类GC
+## 二、内存管理中的各类GC
 
 ![Eden  Survivor I  Obj«ts Oder than 'S GC Cycles  Tenured ](/../assets/img/clip_image003.png)
 
@@ -39,7 +39,7 @@ typora-copy-images-to: ..\assets\img
 
  
 
-## 垃圾回收算法
+## 三、垃圾回收算法
 
 垃圾回收具体流程一般分成三步：
 
