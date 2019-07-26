@@ -9,4 +9,5 @@
 	* [5-反射](./ch1-java/5-反射.md)
 	* [6-静态代理与动态代理](./ch1-java/6-静态代理与动态代理.md)
 	* [7-java多线程](./ch1-java/7-java多线程.md)
+	* [8-java容器](./ch1-java/8-java容器.md)
 
