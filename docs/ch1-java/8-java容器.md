@@ -196,8 +196,8 @@ Map即键值对，通过key，找到value
 ## ConcurrentHashMap
 
 1. 其他实现类似于HashMap，包括什么时候把链表扩展成红黑树等
-2. 当头结点为空时，使用CAS机制插入
-3. 头结点不为空时，锁头（synchronized），
+2. 当头结点为空时，使用CAS机制插入，若冲突了，插入不成功，返回null
+3. 头结点不为空时，锁头（synchronized）
 4. get方法不加锁，Node结点是重写的，设置了volatile关键字，致使每次获取的都是最新设置的值
 5. **ConcurrentHashMap的key和Value都不能为null**
 
