@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [java基础](./ch1-java/0-java基础.md)
+* [java](./ch1-java/0-java基础.md)
 	* [1-java运行时数据区](./ch1-java/1-java运行时数据区.md)
 	* [2-java内存模型与垃圾回收机制](./ch1-java/2-java内存模型与垃圾回收机制.md)
 	* [3-nio入门](./ch1-java/3-nio入门.md)
@@ -13,7 +13,7 @@
 * [数据库](./ch2-database/0-数据库.md)
 	* [1-数据库基础](./ch2-database/1-数据库基础.md)
 * [Spring](./ch3-spring/0-spring.md)
-	* [1-Spring基础知识](./ch3-spring/1-spring.md)
+	* [1-Spring基础知识](./ch3-spring/1-spring基础.md)
 * [操作系统](./ch4-OS/0-操作系统.md)
 	* [1-操作系统基础](./ch4-OS/1-操作系统基础.md)
 
