@@ -8,9 +8,7 @@
 
 [interview](https://hadyang.github.io/interview/)
 
-持续更新中
-
-(https://www.processon.com/view/link/5d3ece1ee4b058ef96b8c23e)
+~~持续更新中~~（作者已经找到工作了，短期内不会再更新，虽然也没有人看）
 
 ![思维导图](http://assets.processon.com/chart_image/5d175dd3e4b04452ec7e9a98.png)
 

@@ -1,0 +1,3 @@
+gitbook build ./ ./docs
+
+pause
